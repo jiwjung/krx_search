@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Runtime cache fetched from KRX KIND
+/data/stocks.csv
